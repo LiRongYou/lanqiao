@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<persons>
+  <person id="1001">
+    <name>何学浩</name>
+    <sex>男</sex>
+    <age>21</age>
+  </person>
+  <person id="1002">
+    <name>钟丁豪</name>
+    <sex>男</sex>
+    <age>22</age>
+  </person>
+  <person id="1003">
+    <name>黎香香</name>
+    <sex>女</sex>
+    <age>21</age>
+  </person>
+  <person id="1004">
+    <name>廖仙娇</name>
+    <sex>女</sex>
+    <age>22</age>
+  </person>
+</persons>
